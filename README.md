@@ -1,2 +1,2 @@
 # React-Redux
-React JS + Redux
+React JS + Redux Hooks
